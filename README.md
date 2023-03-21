@@ -6,6 +6,8 @@ Jeu crée en tant que projet de fin de DUT MMI à l'aide de Unreal Engine 4
 
 Membres: [Louis JOURAND](https://www.linkedin.com/in/louis-jourand-2ab79620a/), [Emilien PONS](https://www.linkedin.com/in/emilien-pons/), [Tom PILLET](https://www.linkedin.com/in/tom-pillet-4b24581b3/), [William MONET](https://www.linkedin.com/in/william-monet-52651720a/), [Loic MEYER](https://www.linkedin.com/in/loic-meyer-7711a91b7/)
 
+Démo du jeu: [https://youtu.be/2bKKpLGdpFw](https://youtu.be/2bKKpLGdpFw) (téléchargement du jeu en description)
+
 
 ## Screenshots
 
